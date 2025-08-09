@@ -28,13 +28,8 @@ app.use((req, res, next) => {
     const origin = req.headers.origin;
     console.log('Request origin:', origin); // Debug log
     
-    if (allowedOrigins.includes(origin)) {
-        res.header('Access-Control-Allow-Origin', origin);
-    } else {
-        // For development, allow all origins
-        res.header('Access-Control-Allow-Origin', '*');
-    }
-    
+    // Always set CORS headers
+    res.header('Access-Control-Allow-Origin', origin || '*');
     res.header('Access-Control-Allow-Credentials', 'true');
     res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
     res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
@@ -76,6 +71,14 @@ passport.deserializeUser(User.deserializeUser());
 
 app.get('/', (req, res) => {
     res.send("Hello world");
+})
+
+app.get('/api/test', (req, res) => {
+    res.json({ 
+        message: "Backend is working!", 
+        timestamp: new Date().toISOString(),
+        cors: "CORS should be working now"
+    });
 })
 // app.use('/api/stores', storesRoutes);
 // app.use('/api/inventory', inventoryRoutes);
