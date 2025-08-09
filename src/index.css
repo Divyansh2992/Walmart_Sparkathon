@@ -1,0 +1,34 @@
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes smoothBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(6px);
+  }
+}
+
+.animate-smooth-bounce {
+  animation: smoothBounce 2s ease-in-out infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  .login-page {
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(90deg, #e2e2e2, #c9d6ff);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+

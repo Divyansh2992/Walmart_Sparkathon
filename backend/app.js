@@ -1,0 +1,91 @@
+import express from 'express';
+import session from 'express-session';
+import methodOverride from 'method-override';
+import passport from 'passport';
+import passportLocal from 'passport-local';
+const localStrategy = passportLocal.Strategy;
+import ExpressError from './utils/ExpressError.js';
+import User from "./models/user.model.js";
+import userRoutes from './routes/user.routes.js';
+import emailRoutes from './routes/email.routes.js';
+// import storesRoutes from './routes/stores.js';
+// import inventoryRoutes from './routes/inventory.js';
+import dotenv from 'dotenv';
+dotenv.config();
+
+
+const app = express()
+
+// CORS middleware
+app.use((req, res, next) => {
+    const allowedOrigins = [
+        'http://localhost:5173', // Vite dev server
+        'http://localhost:3000', // Alternative dev port
+        'https://sparkathon-frontend.netlify.app', // Replace with your actual Netlify URL
+        'https://your-custom-domain.com'  // Replace with your custom domain if any
+    ];
+    
+    const origin = req.headers.origin;
+    if (allowedOrigins.includes(origin)) {
+        res.header('Access-Control-Allow-Origin', origin);
+    }
+    
+    res.header('Access-Control-Allow-Credentials', 'true');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+    
+    if (req.method === 'OPTIONS') {
+        res.sendStatus(200);
+    } else {
+        next();
+    }
+});
+
+// Middleware
+app.use(express.json()); // Add this for JSON parsing
+app.use(express.urlencoded({ extended: true }));
+app.use(methodOverride("_method"));
+
+const sessionOptions = {
+    secret: process.env.SESSION_SECRET || "mysupersecret",
+    resave: false,
+    saveUninitialized: true,
+    cookie: {
+        expires: Date.now() + 7 * 24 * 24 * 60 * 60 * 1000,   //time in millisecond
+        maxAge: 7 * 24 * 24 * 60 * 60 * 1000,
+        httpOnly: true,   //to prevent XSS Attack
+        secure: process.env.NODE_ENV === 'production', // Set to true in production with HTTPS
+        sameSite: 'lax'
+    },
+};
+
+app.use(session(sessionOptions));
+
+app.use(passport.initialize());
+app.use(passport.session());
+passport.use(new localStrategy(User.authenticate()));
+
+// use static serialize and deserialize of model for passport session support
+passport.serializeUser(User.serializeUser());
+passport.deserializeUser(User.deserializeUser());
+
+app.get('/', (req, res) => {
+    res.send("Hello world");
+})
+// app.use('/api/stores', storesRoutes);
+// app.use('/api/inventory', inventoryRoutes);
+app.use('/api/user', userRoutes);
+app.use('/api/email', emailRoutes);
+
+// app.all('*', (req, res, next) => {
+//     next(new ExpressError(404, "Page not Found"));
+// });
+
+app.use((err, req, res, next) => {
+    let { statusCode = 500, message = "Something Went Wrong" } = err;
+    res.status(statusCode).json({ error: message });
+});
+
+// app.listen(5000, () => console.log('Server running'));
+
+export default app;
