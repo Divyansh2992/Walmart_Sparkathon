@@ -22,11 +22,17 @@ app.use((req, res, next) => {
         'http://localhost:5173', // Vite dev server
         'http://localhost:3000', // Alternative dev port
         'https://stacked4.netlify.app', // Your actual Netlify URL
+        'https://stacked4.netlify.app/', // Your actual Netlify URL with trailing slash
     ];
     
     const origin = req.headers.origin;
+    console.log('Request origin:', origin); // Debug log
+    
     if (allowedOrigins.includes(origin)) {
         res.header('Access-Control-Allow-Origin', origin);
+    } else {
+        // For development, allow all origins
+        res.header('Access-Control-Allow-Origin', '*');
     }
     
     res.header('Access-Control-Allow-Credentials', 'true');
