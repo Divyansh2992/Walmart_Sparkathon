@@ -22,7 +22,6 @@ app.use((req, res, next) => {
         'http://localhost:5173', // Vite dev server
         'http://localhost:3000', // Alternative dev port
         'https://stacked4.netlify.app', // Your actual Netlify URL
-        'https://stacked4.netlify.app/', // Your actual Netlify URL with trailing slash
     ];
     
     const origin = req.headers.origin;
