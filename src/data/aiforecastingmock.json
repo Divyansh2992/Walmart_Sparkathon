@@ -9,361 +9,361 @@
                     "store_id": "DT_SC",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
-                            "actual_sales": 12,
-                            "predicted_sales": 13,
+                            "date": "2025-09-01",
+                            "actual_sales": 18,
+                            "predicted_sales": 16,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 10,
-                                "weekly_avg_sales": 11.5,
+                                "yesterday_sales": 15,
+                                "weekly_avg_sales": 16.2,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-02",
-                            "actual_sales": 14,
-                            "predicted_sales": 13,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 12,
-                                "weekly_avg_sales": 12.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-03",
-                            "actual_sales": 13,
-                            "predicted_sales": 14,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 14,
-                                "weekly_avg_sales": 12.2,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-04",
-                            "actual_sales": 15,
-                            "predicted_sales": 14,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 13,
-                                "weekly_avg_sales": 12.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-05",
-                            "actual_sales": 16,
-                            "predicted_sales": 15,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 15,
-                                "weekly_avg_sales": 13.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-06",
-                            "actual_sales": 17,
-                            "predicted_sales": 16,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 16,
-                                "weekly_avg_sales": 13.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-07",
-                            "actual_sales": 18,
-                            "predicted_sales": 17,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 17,
-                                "weekly_avg_sales": 14.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-08",
-                            "actual_sales": 19,
-                            "predicted_sales": 18,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 18,
-                                "weekly_avg_sales": 14.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-09",
-                            "actual_sales": 20,
+                            "date": "2025-09-02",
+                            "actual_sales": 22,
                             "predicted_sales": 19,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 19,
-                                "weekly_avg_sales": 15.0,
+                                "yesterday_sales": 18,
+                                "weekly_avg_sales": 17.8,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-10",
-                            "actual_sales": 21,
-                            "predicted_sales": 20,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 20,
-                                "weekly_avg_sales": 15.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-11",
-                            "actual_sales": 22,
+                            "date": "2025-09-03",
+                            "actual_sales": 15,
                             "predicted_sales": 21,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 21,
-                                "weekly_avg_sales": 16.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-12",
-                            "actual_sales": 23,
-                            "predicted_sales": 22,
-                            "features": {
-                                "unit_price": 1199.99,
                                 "yesterday_sales": 22,
-                                "weekly_avg_sales": 16.5,
+                                "weekly_avg_sales": 18.3,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-13",
-                            "actual_sales": 24,
-                            "predicted_sales": 23,
+                            "date": "2025-09-04",
+                            "actual_sales": 28,
+                            "predicted_sales": 18,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 23,
-                                "weekly_avg_sales": 17.0,
-                                "special_event": 0,
-                                "promotion_active": 0
+                                "yesterday_sales": 15,
+                                "weekly_avg_sales": 19.2,
+                                "special_event": 1,
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-14",
-                            "actual_sales": 25,
-                            "predicted_sales": 24,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 24,
-                                "weekly_avg_sales": 17.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-15",
-                            "actual_sales": 26,
+                            "date": "2025-09-05",
+                            "actual_sales": 35,
                             "predicted_sales": 25,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 25,
-                                "weekly_avg_sales": 18.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-16",
-                            "actual_sales": 27,
-                            "predicted_sales": 26,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 26,
-                                "weekly_avg_sales": 18.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-17",
-                            "actual_sales": 28,
-                            "predicted_sales": 27,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 27,
-                                "weekly_avg_sales": 19.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-18",
-                            "actual_sales": 29,
-                            "predicted_sales": 28,
-                            "features": {
-                                "unit_price": 1199.99,
                                 "yesterday_sales": 28,
-                                "weekly_avg_sales": 19.5,
+                                "weekly_avg_sales": 20.2,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-19",
-                            "actual_sales": 30,
-                            "predicted_sales": 29,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 29,
-                                "weekly_avg_sales": 20.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-20",
-                            "actual_sales": 31,
-                            "predicted_sales": 30,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 30,
-                                "weekly_avg_sales": 20.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-21",
-                            "actual_sales": 32,
-                            "predicted_sales": 31,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 31,
-                                "weekly_avg_sales": 21.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-22",
-                            "actual_sales": 33,
+                            "date": "2025-09-06",
+                            "actual_sales": 42,
                             "predicted_sales": 32,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 32,
-                                "weekly_avg_sales": 21.5,
+                                "yesterday_sales": 35,
+                                "weekly_avg_sales": 22.7,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-23",
-                            "actual_sales": 34,
-                            "predicted_sales": 33,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 33,
-                                "weekly_avg_sales": 22.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-24",
-                            "actual_sales": 35,
-                            "predicted_sales": 34,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 34,
-                                "weekly_avg_sales": 22.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-25",
-                            "actual_sales": 36,
+                            "date": "2025-09-07",
+                            "actual_sales": 38,
                             "predicted_sales": 35,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 35,
-                                "weekly_avg_sales": 23.0,
-                                "special_event": 0,
+                                "yesterday_sales": 42,
+                                "weekly_avg_sales": 24.2,
+                                "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-26",
-                            "actual_sales": 37,
-                            "predicted_sales": 36,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 36,
-                                "weekly_avg_sales": 23.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-27",
-                            "actual_sales": 38,
-                            "predicted_sales": 37,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 37,
-                                "weekly_avg_sales": 24.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-28",
-                            "actual_sales": 39,
-                            "predicted_sales": 38,
+                            "date": "2025-09-08",
+                            "actual_sales": 25,
+                            "predicted_sales": 28,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 38,
-                                "weekly_avg_sales": 24.5,
+                                "weekly_avg_sales": 25.3,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-29",
-                            "actual_sales": 40,
+                            "date": "2025-09-09",
+                            "actual_sales": 19,
+                            "predicted_sales": 22,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 25,
+                                "weekly_avg_sales": 26.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-10",
+                            "actual_sales": 31,
+                            "predicted_sales": 26,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 19,
+                                "weekly_avg_sales": 27.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-11",
+                            "actual_sales": 45,
+                            "predicted_sales": 33,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 31,
+                                "weekly_avg_sales": 28.4,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-12",
+                            "actual_sales": 52,
+                            "predicted_sales": 38,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 45,
+                                "weekly_avg_sales": 29.1,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-13",
+                            "actual_sales": 48,
+                            "predicted_sales": 42,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 52,
+                                "weekly_avg_sales": 30.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-14",
+                            "actual_sales": 33,
                             "predicted_sales": 39,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 39,
-                                "weekly_avg_sales": 25.0,
+                                "yesterday_sales": 48,
+                                "weekly_avg_sales": 31.3,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-30",
-                            "actual_sales": 41,
-                            "predicted_sales": 40,
+                            "date": "2025-09-15",
+                            "actual_sales": 27,
+                            "predicted_sales": 35,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 40,
-                                "weekly_avg_sales": 25.5,
+                                "yesterday_sales": 33,
+                                "weekly_avg_sales": 32.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-16",
+                            "actual_sales": 41,
+                            "predicted_sales": 31,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 27,
+                                "weekly_avg_sales": 33.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-17",
+                            "actual_sales": 58,
+                            "predicted_sales": 38,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 41,
+                                "weekly_avg_sales": 34.4,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-18",
+                            "actual_sales": 44,
+                            "predicted_sales": 42,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 58,
+                                "weekly_avg_sales": 35.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-19",
+                            "actual_sales": 36,
+                            "predicted_sales": 38,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 44,
+                                "weekly_avg_sales": 36.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-20",
+                            "actual_sales": 29,
+                            "predicted_sales": 35,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 36,
+                                "weekly_avg_sales": 37.3,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-21",
+                            "actual_sales": 22,
+                            "predicted_sales": 32,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 29,
+                                "weekly_avg_sales": 38.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-22",
+                            "actual_sales": 39,
+                            "predicted_sales": 29,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 22,
+                                "weekly_avg_sales": 39.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-23",
+                            "actual_sales": 51,
+                            "predicted_sales": 36,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 39,
+                                "weekly_avg_sales": 40.4,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-24",
+                            "actual_sales": 47,
+                            "predicted_sales": 42,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 51,
+                                "weekly_avg_sales": 41.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-25",
+                            "actual_sales": 55,
+                            "predicted_sales": 45,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 47,
+                                "weekly_avg_sales": 42.2,
+                                "special_event": 1,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-26",
+                            "actual_sales": 62,
+                            "predicted_sales": 48,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 55,
+                                "weekly_avg_sales": 43.3,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-27",
+                            "actual_sales": 38,
+                            "predicted_sales": 52,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 62,
+                                "weekly_avg_sales": 44.1,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-28",
+                            "actual_sales": 44,
+                            "predicted_sales": 46,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 38,
+                                "weekly_avg_sales": 45.2,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-29",
+                            "actual_sales": 51,
+                            "predicted_sales": 48,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 44,
+                                "weekly_avg_sales": 46.4,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-30",
+                            "actual_sales": 37,
+                            "predicted_sales": 50,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 51,
+                                "weekly_avg_sales": 47.1,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
@@ -375,153 +375,105 @@
                     "store_id": "UT_NB",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
-                            "actual_sales": 17,
-                            "predicted_sales": 17,
+                            "date": "2025-09-01",
+                            "actual_sales": 19,
+                            "predicted_sales": 18,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 15,
-                                "weekly_avg_sales": 15.5,
+                                "yesterday_sales": 16,
+                                "weekly_avg_sales": 17.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-02",
-                            "actual_sales": 19,
-                            "predicted_sales": 17,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 17,
-                                "weekly_avg_sales": 16.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-03",
-                            "actual_sales": 18,
-                            "predicted_sales": 18,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 19,
-                                "weekly_avg_sales": 16.2,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-04",
-                            "actual_sales": 20,
-                            "predicted_sales": 18,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 18,
-                                "weekly_avg_sales": 16.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-05",
-                            "actual_sales": 21,
-                            "predicted_sales": 19,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 20,
-                                "weekly_avg_sales": 17.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-06",
-                            "actual_sales": 22,
+                            "date": "2025-09-02",
+                            "actual_sales": 24,
                             "predicted_sales": 20,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 21,
-                                "weekly_avg_sales": 17.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-07",
-                            "actual_sales": 23,
-                            "predicted_sales": 21,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 22,
+                                "yesterday_sales": 19,
                                 "weekly_avg_sales": 18.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-08",
-                            "actual_sales": 24,
+                            "date": "2025-09-03",
+                            "actual_sales": 17,
                             "predicted_sales": 22,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 23,
+                                "yesterday_sales": 24,
+                                "weekly_avg_sales": 18.2,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-04",
+                            "actual_sales": 31,
+                            "predicted_sales": 19,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 17,
                                 "weekly_avg_sales": 18.5,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-09",
-                            "actual_sales": 25,
-                            "predicted_sales": 23,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 24,
-                                "weekly_avg_sales": 19.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-10",
-                            "actual_sales": 26,
-                            "predicted_sales": 24,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 25,
-                                "weekly_avg_sales": 19.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-11",
-                            "actual_sales": 27,
-                            "predicted_sales": 25,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 26,
-                                "weekly_avg_sales": 20.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-12",
-                            "actual_sales": 28,
+                            "date": "2025-09-05",
+                            "actual_sales": 38,
                             "predicted_sales": 26,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 27,
+                                "yesterday_sales": 31,
+                                "weekly_avg_sales": 19.0,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-06",
+                            "actual_sales": 45,
+                            "predicted_sales": 33,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 38,
+                                "weekly_avg_sales": 19.5,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-07",
+                            "actual_sales": 41,
+                            "predicted_sales": 36,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 45,
+                                "weekly_avg_sales": 20.0,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-08",
+                            "actual_sales": 28,
+                            "predicted_sales": 30,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 41,
                                 "weekly_avg_sales": 20.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-13",
-                            "actual_sales": 29,
-                            "predicted_sales": 27,
+                            "date": "2025-09-09",
+                            "actual_sales": 21,
+                            "predicted_sales": 25,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 28,
@@ -531,205 +483,253 @@
                             }
                         },
                         {
-                            "date": "2025-07-14",
-                            "actual_sales": 30,
+                            "date": "2025-09-10",
+                            "actual_sales": 33,
                             "predicted_sales": 28,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 29,
+                                "yesterday_sales": 21,
                                 "weekly_avg_sales": 21.5,
-                                "special_event": 0,
+                                "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-15",
-                            "actual_sales": 31,
-                            "predicted_sales": 29,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 30,
-                                "weekly_avg_sales": 22.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-16",
-                            "actual_sales": 32,
-                            "predicted_sales": 30,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 31,
-                                "weekly_avg_sales": 22.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-17",
-                            "actual_sales": 33,
-                            "predicted_sales": 31,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 32,
-                                "weekly_avg_sales": 23.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-18",
-                            "actual_sales": 34,
-                            "predicted_sales": 32,
+                            "date": "2025-09-11",
+                            "actual_sales": 48,
+                            "predicted_sales": 35,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 33,
+                                "weekly_avg_sales": 22.0,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-12",
+                            "actual_sales": 55,
+                            "predicted_sales": 40,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 48,
+                                "weekly_avg_sales": 22.5,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-13",
+                            "actual_sales": 51,
+                            "predicted_sales": 44,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 55,
+                                "weekly_avg_sales": 23.0,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-14",
+                            "actual_sales": 35,
+                            "predicted_sales": 41,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 51,
                                 "weekly_avg_sales": 23.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-19",
-                            "actual_sales": 35,
-                            "predicted_sales": 33,
+                            "date": "2025-09-15",
+                            "actual_sales": 29,
+                            "predicted_sales": 37,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 34,
+                                "yesterday_sales": 35,
                                 "weekly_avg_sales": 24.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-20",
-                            "actual_sales": 36,
-                            "predicted_sales": 34,
+                            "date": "2025-09-16",
+                            "actual_sales": 43,
+                            "predicted_sales": 33,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 35,
+                                "yesterday_sales": 29,
                                 "weekly_avg_sales": 24.5,
-                                "special_event": 0,
+                                "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-21",
-                            "actual_sales": 37,
-                            "predicted_sales": 35,
+                            "date": "2025-09-17",
+                            "actual_sales": 61,
+                            "predicted_sales": 40,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 36,
+                                "yesterday_sales": 43,
                                 "weekly_avg_sales": 25.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-22",
-                            "actual_sales": 38,
-                            "predicted_sales": 36,
+                            "date": "2025-09-18",
+                            "actual_sales": 47,
+                            "predicted_sales": 44,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 37,
+                                "yesterday_sales": 61,
                                 "weekly_avg_sales": 25.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-23",
-                            "actual_sales": 39,
-                            "predicted_sales": 37,
+                            "date": "2025-09-19",
+                            "actual_sales": 38,
+                            "predicted_sales": 40,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 38,
+                                "yesterday_sales": 47,
                                 "weekly_avg_sales": 26.0,
-                                "special_event": 0,
+                                "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-24",
-                            "actual_sales": 40,
-                            "predicted_sales": 38,
+                            "date": "2025-09-20",
+                            "actual_sales": 31,
+                            "predicted_sales": 37,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 39,
+                                "yesterday_sales": 38,
                                 "weekly_avg_sales": 26.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-25",
-                            "actual_sales": 41,
-                            "predicted_sales": 39,
+                            "date": "2025-09-21",
+                            "actual_sales": 24,
+                            "predicted_sales": 34,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 40,
+                                "yesterday_sales": 31,
                                 "weekly_avg_sales": 27.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-26",
-                            "actual_sales": 42,
-                            "predicted_sales": 40,
+                            "date": "2025-09-22",
+                            "actual_sales": 41,
+                            "predicted_sales": 31,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 24,
+                                "weekly_avg_sales": 27.5,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-23",
+                            "actual_sales": 53,
+                            "predicted_sales": 38,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 41,
-                                "weekly_avg_sales": 27.5,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-27",
-                            "actual_sales": 43,
-                            "predicted_sales": 41,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 42,
                                 "weekly_avg_sales": 28.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-28",
-                            "actual_sales": 44,
-                            "predicted_sales": 42,
+                            "date": "2025-09-24",
+                            "actual_sales": 49,
+                            "predicted_sales": 44,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 43,
+                                "yesterday_sales": 53,
                                 "weekly_avg_sales": 28.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-29",
-                            "actual_sales": 45,
-                            "predicted_sales": 43,
+                            "date": "2025-09-25",
+                            "actual_sales": 57,
+                            "predicted_sales": 47,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 44,
+                                "yesterday_sales": 49,
                                 "weekly_avg_sales": 29.0,
+                                "special_event": 1,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-26",
+                            "actual_sales": 64,
+                            "predicted_sales": 50,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 57,
+                                "weekly_avg_sales": 29.5,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-27",
+                            "actual_sales": 40,
+                            "predicted_sales": 54,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 64,
+                                "weekly_avg_sales": 30.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-30",
+                            "date": "2025-09-28",
                             "actual_sales": 46,
-                            "predicted_sales": 44,
+                            "predicted_sales": 48,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 45,
-                                "weekly_avg_sales": 29.5,
+                                "yesterday_sales": 40,
+                                "weekly_avg_sales": 30.5,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-29",
+                            "actual_sales": 53,
+                            "predicted_sales": 50,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 46,
+                                "weekly_avg_sales": 31.0,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-30",
+                            "actual_sales": 39,
+                            "predicted_sales": 52,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 53,
+                                "weekly_avg_sales": 31.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
@@ -741,45 +741,45 @@
                     "store_id": "SB_SC",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
-                            "actual_sales": 10,
+                            "date": "2025-09-01",
+                            "actual_sales": 12,
                             "predicted_sales": 12,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 8,
+                                "yesterday_sales": 9,
                                 "weekly_avg_sales": 10.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-02",
-                            "actual_sales": 12,
-                            "predicted_sales": 13,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 10,
-                                "weekly_avg_sales": 11.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-03",
-                            "actual_sales": 14,
+                            "date": "2025-09-02",
+                            "actual_sales": 19,
                             "predicted_sales": 15,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 12,
+                                "weekly_avg_sales": 11.0,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-03",
+                            "actual_sales": 14,
+                            "predicted_sales": 17,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 19,
                                 "weekly_avg_sales": 11.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-04",
-                            "actual_sales": 16,
-                            "predicted_sales": 17,
+                            "date": "2025-09-04",
+                            "actual_sales": 8,
+                            "predicted_sales": 15,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 14,
@@ -789,312 +789,312 @@
                             }
                         },
                         {
-                            "date": "2025-07-05",
-                            "actual_sales": 18,
-                            "predicted_sales": 19,
+                            "date": "2025-09-05",
+                            "actual_sales": 25,
+                            "predicted_sales": 13,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 16,
+                                "yesterday_sales": 8,
                                 "weekly_avg_sales": 12.5,
                                 "special_event": 1,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-06",
-                            "actual_sales": 20,
-                            "predicted_sales": 21,
+                            "date": "2025-09-06",
+                            "actual_sales": 32,
+                            "predicted_sales": 20,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 18,
+                                "yesterday_sales": 25,
                                 "weekly_avg_sales": 13.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-07",
-                            "actual_sales": 22,
-                            "predicted_sales": 23,
+                            "date": "2025-09-07",
+                            "actual_sales": 28,
+                            "predicted_sales": 22,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 20,
+                                "yesterday_sales": 32,
                                 "weekly_avg_sales": 13.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-08",
-                            "actual_sales": 24,
-                            "predicted_sales": 25,
+                            "date": "2025-09-08",
+                            "actual_sales": 18,
+                            "predicted_sales": 19,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 22,
+                                "yesterday_sales": 28,
                                 "weekly_avg_sales": 14.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-09",
-                            "actual_sales": 26,
-                            "predicted_sales": 27,
+                            "date": "2025-09-09",
+                            "actual_sales": 15,
+                            "predicted_sales": 21,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 24,
+                                "yesterday_sales": 18,
                                 "weekly_avg_sales": 14.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-10",
-                            "actual_sales": 28,
-                            "predicted_sales": 29,
+                            "date": "2025-09-10",
+                            "actual_sales": 23,
+                            "predicted_sales": 18,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 26,
+                                "yesterday_sales": 15,
                                 "weekly_avg_sales": 15.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-11",
-                            "actual_sales": 30,
-                            "predicted_sales": 31,
+                            "date": "2025-09-11",
+                            "actual_sales": 35,
+                            "predicted_sales": 26,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 28,
+                                "yesterday_sales": 23,
                                 "weekly_avg_sales": 15.5,
                                 "special_event": 1,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-12",
-                            "actual_sales": 32,
+                            "date": "2025-09-12",
+                            "actual_sales": 42,
+                            "predicted_sales": 30,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 35,
+                                "weekly_avg_sales": 16.0,
+                                "special_event": 0,
+                                "promotion_active": 1
+                            }
+                        },
+                        {
+                            "date": "2025-09-13",
+                            "actual_sales": 38,
                             "predicted_sales": 33,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 30,
-                                "weekly_avg_sales": 16.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-13",
-                            "actual_sales": 34,
-                            "predicted_sales": 35,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 32,
+                                "yesterday_sales": 42,
                                 "weekly_avg_sales": 16.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-14",
-                            "actual_sales": 36,
-                            "predicted_sales": 37,
+                            "date": "2025-09-14",
+                            "actual_sales": 26,
+                            "predicted_sales": 30,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 34,
+                                "yesterday_sales": 38,
                                 "weekly_avg_sales": 17.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-15",
-                            "actual_sales": 38,
-                            "predicted_sales": 39,
+                            "date": "2025-09-15",
+                            "actual_sales": 21,
+                            "predicted_sales": 28,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 36,
+                                "yesterday_sales": 26,
                                 "weekly_avg_sales": 17.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-16",
-                            "actual_sales": 40,
-                            "predicted_sales": 41,
+                            "date": "2025-09-16",
+                            "actual_sales": 33,
+                            "predicted_sales": 26,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 38,
+                                "yesterday_sales": 21,
                                 "weekly_avg_sales": 18.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-17",
-                            "actual_sales": 42,
-                            "predicted_sales": 43,
+                            "date": "2025-09-17",
+                            "actual_sales": 49,
+                            "predicted_sales": 30,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 40,
+                                "yesterday_sales": 33,
                                 "weekly_avg_sales": 18.5,
                                 "special_event": 1,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-18",
-                            "actual_sales": 44,
-                            "predicted_sales": 45,
+                            "date": "2025-09-18",
+                            "actual_sales": 41,
+                            "predicted_sales": 34,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 42,
+                                "yesterday_sales": 49,
                                 "weekly_avg_sales": 19.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-19",
-                            "actual_sales": 46,
-                            "predicted_sales": 47,
+                            "date": "2025-09-19",
+                            "actual_sales": 35,
+                            "predicted_sales": 32,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 44,
+                                "yesterday_sales": 41,
                                 "weekly_avg_sales": 19.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-20",
-                            "actual_sales": 48,
-                            "predicted_sales": 49,
+                            "date": "2025-09-20",
+                            "actual_sales": 28,
+                            "predicted_sales": 30,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 46,
+                                "yesterday_sales": 35,
                                 "weekly_avg_sales": 20.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-21",
-                            "actual_sales": 50,
-                            "predicted_sales": 51,
+                            "date": "2025-09-21",
+                            "actual_sales": 22,
+                            "predicted_sales": 28,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 48,
+                                "yesterday_sales": 28,
                                 "weekly_avg_sales": 20.5,
                                 "special_event": 1,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-22",
-                            "actual_sales": 52,
-                            "predicted_sales": 53,
+                            "date": "2025-09-22",
+                            "actual_sales": 37,
+                            "predicted_sales": 25,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 50,
+                                "yesterday_sales": 22,
                                 "weekly_avg_sales": 21.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-23",
-                            "actual_sales": 54,
-                            "predicted_sales": 55,
+                            "date": "2025-09-23",
+                            "actual_sales": 51,
+                            "predicted_sales": 32,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 52,
+                                "yesterday_sales": 37,
                                 "weekly_avg_sales": 21.5,
-                                "special_event": 1,
-                                "promotion_active": 0
+                                "special_event": 0,
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-24",
-                            "actual_sales": 56,
-                            "predicted_sales": 57,
+                            "date": "2025-09-24",
+                            "actual_sales": 47,
+                            "predicted_sales": 35,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 54,
+                                "yesterday_sales": 51,
                                 "weekly_avg_sales": 22.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-25",
-                            "actual_sales": 58,
-                            "predicted_sales": 59,
+                            "date": "2025-09-25",
+                            "actual_sales": 59,
+                            "predicted_sales": 38,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 56,
+                                "yesterday_sales": 47,
                                 "weekly_avg_sales": 22.5,
                                 "special_event": 1,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-26",
-                            "actual_sales": 60,
-                            "predicted_sales": 61,
+                            "date": "2025-09-26",
+                            "actual_sales": 66,
+                            "predicted_sales": 41,
                             "features": {
                                 "unit_price": 1199.99,
-                                "yesterday_sales": 58,
+                                "yesterday_sales": 59,
                                 "weekly_avg_sales": 23.0,
                                 "special_event": 0,
-                                "promotion_active": 0
+                                "promotion_active": 1
                             }
                         },
                         {
-                            "date": "2025-07-27",
-                            "actual_sales": 62,
-                            "predicted_sales": 63,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 60,
-                                "weekly_avg_sales": 23.5,
-                                "special_event": 1,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-28",
-                            "actual_sales": 64,
-                            "predicted_sales": 65,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 62,
-                                "weekly_avg_sales": 24.0,
-                                "special_event": 0,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-29",
-                            "actual_sales": 66,
-                            "predicted_sales": 67,
-                            "features": {
-                                "unit_price": 1199.99,
-                                "yesterday_sales": 64,
-                                "weekly_avg_sales": 24.5,
-                                "special_event": 1,
-                                "promotion_active": 0
-                            }
-                        },
-                        {
-                            "date": "2025-07-30",
-                            "actual_sales": 68,
-                            "predicted_sales": 69,
+                            "date": "2025-09-27",
+                            "actual_sales": 44,
+                            "predicted_sales": 44,
                             "features": {
                                 "unit_price": 1199.99,
                                 "yesterday_sales": 66,
+                                "weekly_avg_sales": 23.5,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-28",
+                            "actual_sales": 52,
+                            "predicted_sales": 41,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 44,
+                                "weekly_avg_sales": 24.0,
+                                "special_event": 1,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-29",
+                            "actual_sales": 58,
+                            "predicted_sales": 44,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 52,
+                                "weekly_avg_sales": 24.5,
+                                "special_event": 0,
+                                "promotion_active": 0
+                            }
+                        },
+                        {
+                            "date": "2025-09-30",
+                            "actual_sales": 43,
+                            "predicted_sales": 47,
+                            "features": {
+                                "unit_price": 1199.99,
+                                "yesterday_sales": 58,
                                 "weekly_avg_sales": 25.0,
                                 "special_event": 0,
                                 "promotion_active": 0
@@ -1113,7 +1113,7 @@
                     "store_id": "DT_SC",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
+                            "date": "2025-09-01",
                             "actual_sales": 5,
                             "predicted_sales": 6,
                             "features": {
@@ -1125,235 +1125,235 @@
                             }
                         },
                         {
-                            "date": "2025-07-02",
+                            "date": "2025-09-02",
                             "actual_sales": 7,
                             "predicted_sales": 6,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 6,
+                                "yesterday_sales": 5,
                                 "weekly_avg_sales": 6.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-03",
-                            "actual_sales": 6,
-                            "predicted_sales": 7,
+                            "date": "2025-09-03",
+                            "actual_sales": 4,
+                            "predicted_sales": 6,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 8,
+                                "yesterday_sales": 7,
                                 "weekly_avg_sales": 6.2,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-04",
+                            "date": "2025-09-04",
                             "actual_sales": 8,
                             "predicted_sales": 7,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 7,
+                                "yesterday_sales": 4,
                                 "weekly_avg_sales": 6.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-05",
-                            "actual_sales": 9,
-                            "predicted_sales": 8,
+                            "date": "2025-09-05",
+                            "actual_sales": 6,
+                            "predicted_sales": 7,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 9,
+                                "yesterday_sales": 8,
                                 "weekly_avg_sales": 7.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-06",
-                            "actual_sales": 10,
-                            "predicted_sales": 9,
+                            "date": "2025-09-06",
+                            "actual_sales": 9,
+                            "predicted_sales": 8,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 10,
+                                "yesterday_sales": 6,
                                 "weekly_avg_sales": 7.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-07",
+                            "date": "2025-09-07",
                             "actual_sales": 11,
-                            "predicted_sales": 10,
+                            "predicted_sales": 9,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 11,
+                                "yesterday_sales": 9,
                                 "weekly_avg_sales": 8.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-08",
-                            "actual_sales": 12,
-                            "predicted_sales": 11,
+                            "date": "2025-09-08",
+                            "actual_sales": 8,
+                            "predicted_sales": 10,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 12,
+                                "yesterday_sales": 11,
                                 "weekly_avg_sales": 8.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-09",
-                            "actual_sales": 13,
-                            "predicted_sales": 12,
+                            "date": "2025-09-09",
+                            "actual_sales": 12,
+                            "predicted_sales": 11,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 13,
+                                "yesterday_sales": 8,
                                 "weekly_avg_sales": 9.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-10",
-                            "actual_sales": 14,
-                            "predicted_sales": 13,
+                            "date": "2025-09-10",
+                            "actual_sales": 10,
+                            "predicted_sales": 12,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 14,
+                                "yesterday_sales": 12,
                                 "weekly_avg_sales": 9.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-11",
-                            "actual_sales": 15,
-                            "predicted_sales": 14,
+                            "date": "2025-09-11",
+                            "actual_sales": 13,
+                            "predicted_sales": 13,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 15,
+                                "yesterday_sales": 10,
                                 "weekly_avg_sales": 10.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-12",
-                            "actual_sales": 16,
-                            "predicted_sales": 15,
+                            "date": "2025-09-12",
+                            "actual_sales": 15,
+                            "predicted_sales": 14,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 16,
+                                "yesterday_sales": 13,
                                 "weekly_avg_sales": 10.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-13",
-                            "actual_sales": 17,
-                            "predicted_sales": 16,
+                            "date": "2025-09-13",
+                            "actual_sales": 12,
+                            "predicted_sales": 15,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 17,
+                                "yesterday_sales": 15,
                                 "weekly_avg_sales": 11.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-14",
-                            "actual_sales": 18,
-                            "predicted_sales": 17,
+                            "date": "2025-09-14",
+                            "actual_sales": 16,
+                            "predicted_sales": 16,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 18,
+                                "yesterday_sales": 12,
                                 "weekly_avg_sales": 11.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-15",
-                            "actual_sales": 19,
-                            "predicted_sales": 18,
+                            "date": "2025-09-15",
+                            "actual_sales": 14,
+                            "predicted_sales": 17,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 19,
+                                "yesterday_sales": 16,
                                 "weekly_avg_sales": 12.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-16",
-                            "actual_sales": 20,
-                            "predicted_sales": 19,
+                            "date": "2025-09-16",
+                            "actual_sales": 17,
+                            "predicted_sales": 18,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 20,
+                                "yesterday_sales": 14,
                                 "weekly_avg_sales": 12.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-17",
-                            "actual_sales": 21,
-                            "predicted_sales": 20,
+                            "date": "2025-09-17",
+                            "actual_sales": 19,
+                            "predicted_sales": 19,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 21,
+                                "yesterday_sales": 17,
                                 "weekly_avg_sales": 13.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-18",
-                            "actual_sales": 22,
-                            "predicted_sales": 21,
+                            "date": "2025-09-18",
+                            "actual_sales": 16,
+                            "predicted_sales": 20,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 22,
+                                "yesterday_sales": 19,
                                 "weekly_avg_sales": 13.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-19",
-                            "actual_sales": 23,
-                            "predicted_sales": 22,
+                            "date": "2025-09-19",
+                            "actual_sales": 18,
+                            "predicted_sales": 21,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 23,
+                                "yesterday_sales": 16,
                                 "weekly_avg_sales": 14.0,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-20",
-                            "actual_sales": 24,
-                            "predicted_sales": 23,
+                            "date": "2025-09-20",
+                            "actual_sales": 20,
+                            "predicted_sales": 22,
                             "features": {
                                 "unit_price": 799.99,
-                                "yesterday_sales": 24,
+                                "yesterday_sales": 18,
                                 "weekly_avg_sales": 14.5,
                                 "special_event": 0,
                                 "promotion_active": 0
                             }
                         },
                         {
-                            "date": "2025-07-21",
+                            "date": "2025-09-21",
                             "actual_sales": 25,
                             "predicted_sales": 24,
                             "features": {
@@ -1365,7 +1365,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-22",
+                            "date": "2025-09-22",
                             "actual_sales": 26,
                             "predicted_sales": 25,
                             "features": {
@@ -1377,7 +1377,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-23",
+                            "date": "2025-09-23",
                             "actual_sales": 27,
                             "predicted_sales": 26,
                             "features": {
@@ -1389,7 +1389,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-24",
+                            "date": "2025-09-24",
                             "actual_sales": 28,
                             "predicted_sales": 27,
                             "features": {
@@ -1401,7 +1401,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-25",
+                            "date": "2025-09-25",
                             "actual_sales": 29,
                             "predicted_sales": 28,
                             "features": {
@@ -1413,7 +1413,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-26",
+                            "date": "2025-09-26",
                             "actual_sales": 30,
                             "predicted_sales": 29,
                             "features": {
@@ -1425,7 +1425,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-27",
+                            "date": "2025-09-27",
                             "actual_sales": 31,
                             "predicted_sales": 30,
                             "features": {
@@ -1437,7 +1437,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-28",
+                            "date": "2025-09-28",
                             "actual_sales": 32,
                             "predicted_sales": 31,
                             "features": {
@@ -1449,7 +1449,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-29",
+                            "date": "2025-09-29",
                             "actual_sales": 33,
                             "predicted_sales": 32,
                             "features": {
@@ -1461,7 +1461,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-30",
+                            "date": "2025-09-30",
                             "actual_sales": 34,
                             "predicted_sales": 33,
                             "features": {
@@ -1479,7 +1479,7 @@
                     "store_id": "UT_NB",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
+                            "date": "2025-09-01",
                             "actual_sales": 7,
                             "predicted_sales": 7,
                             "features": {
@@ -1491,7 +1491,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-02",
+                            "date": "2025-09-02",
                             "actual_sales": 9,
                             "predicted_sales": 8,
                             "features": {
@@ -1503,7 +1503,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-03",
+                            "date": "2025-09-03",
                             "actual_sales": 11,
                             "predicted_sales": 10,
                             "features": {
@@ -1515,7 +1515,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-04",
+                            "date": "2025-09-04",
                             "actual_sales": 13,
                             "predicted_sales": 12,
                             "features": {
@@ -1527,7 +1527,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-05",
+                            "date": "2025-09-05",
                             "actual_sales": 15,
                             "predicted_sales": 14,
                             "features": {
@@ -1539,7 +1539,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-06",
+                            "date": "2025-09-06",
                             "actual_sales": 17,
                             "predicted_sales": 16,
                             "features": {
@@ -1551,7 +1551,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-07",
+                            "date": "2025-09-07",
                             "actual_sales": 19,
                             "predicted_sales": 18,
                             "features": {
@@ -1563,7 +1563,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-08",
+                            "date": "2025-09-08",
                             "actual_sales": 21,
                             "predicted_sales": 20,
                             "features": {
@@ -1575,7 +1575,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-09",
+                            "date": "2025-09-09",
                             "actual_sales": 23,
                             "predicted_sales": 22,
                             "features": {
@@ -1587,7 +1587,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-10",
+                            "date": "2025-09-10",
                             "actual_sales": 25,
                             "predicted_sales": 24,
                             "features": {
@@ -1599,7 +1599,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-11",
+                            "date": "2025-09-11",
                             "actual_sales": 27,
                             "predicted_sales": 26,
                             "features": {
@@ -1611,7 +1611,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-12",
+                            "date": "2025-09-12",
                             "actual_sales": 29,
                             "predicted_sales": 28,
                             "features": {
@@ -1623,7 +1623,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-13",
+                            "date": "2025-09-13",
                             "actual_sales": 31,
                             "predicted_sales": 30,
                             "features": {
@@ -1635,7 +1635,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-14",
+                            "date": "2025-09-14",
                             "actual_sales": 33,
                             "predicted_sales": 32,
                             "features": {
@@ -1647,7 +1647,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-15",
+                            "date": "2025-09-15",
                             "actual_sales": 35,
                             "predicted_sales": 34,
                             "features": {
@@ -1659,7 +1659,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-16",
+                            "date": "2025-09-16",
                             "actual_sales": 37,
                             "predicted_sales": 36,
                             "features": {
@@ -1671,7 +1671,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-17",
+                            "date": "2025-09-17",
                             "actual_sales": 39,
                             "predicted_sales": 38,
                             "features": {
@@ -1683,7 +1683,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-18",
+                            "date": "2025-09-18",
                             "actual_sales": 41,
                             "predicted_sales": 40,
                             "features": {
@@ -1695,7 +1695,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-19",
+                            "date": "2025-09-19",
                             "actual_sales": 43,
                             "predicted_sales": 42,
                             "features": {
@@ -1707,7 +1707,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-20",
+                            "date": "2025-09-20",
                             "actual_sales": 45,
                             "predicted_sales": 44,
                             "features": {
@@ -1719,7 +1719,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-21",
+                            "date": "2025-09-21",
                             "actual_sales": 47,
                             "predicted_sales": 46,
                             "features": {
@@ -1731,7 +1731,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-22",
+                            "date": "2025-09-22",
                             "actual_sales": 49,
                             "predicted_sales": 48,
                             "features": {
@@ -1743,7 +1743,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-23",
+                            "date": "2025-09-23",
                             "actual_sales": 51,
                             "predicted_sales": 50,
                             "features": {
@@ -1755,7 +1755,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-24",
+                            "date": "2025-09-24",
                             "actual_sales": 53,
                             "predicted_sales": 52,
                             "features": {
@@ -1767,7 +1767,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-25",
+                            "date": "2025-09-25",
                             "actual_sales": 55,
                             "predicted_sales": 54,
                             "features": {
@@ -1779,7 +1779,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-26",
+                            "date": "2025-09-26",
                             "actual_sales": 57,
                             "predicted_sales": 56,
                             "features": {
@@ -1791,7 +1791,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-27",
+                            "date": "2025-09-27",
                             "actual_sales": 59,
                             "predicted_sales": 58,
                             "features": {
@@ -1803,7 +1803,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-28",
+                            "date": "2025-09-28",
                             "actual_sales": 61,
                             "predicted_sales": 60,
                             "features": {
@@ -1815,7 +1815,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-29",
+                            "date": "2025-09-29",
                             "actual_sales": 63,
                             "predicted_sales": 62,
                             "features": {
@@ -1827,7 +1827,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-30",
+                            "date": "2025-09-30",
                             "actual_sales": 65,
                             "predicted_sales": 64,
                             "features": {
@@ -1845,7 +1845,7 @@
                     "store_id": "SB_SC",
                     "daily_data": [
                         {
-                            "date": "2025-07-01",
+                            "date": "2025-09-01",
                             "actual_sales": 4,
                             "predicted_sales": 5,
                             "features": {
@@ -1857,7 +1857,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-02",
+                            "date": "2025-09-02",
                             "actual_sales": 6,
                             "predicted_sales": 5,
                             "features": {
@@ -1869,7 +1869,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-03",
+                            "date": "2025-09-03",
                             "actual_sales": 5,
                             "predicted_sales": 6,
                             "features": {
@@ -1881,7 +1881,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-04",
+                            "date": "2025-09-04",
                             "actual_sales": 7,
                             "predicted_sales": 6,
                             "features": {
@@ -1893,7 +1893,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-05",
+                            "date": "2025-09-05",
                             "actual_sales": 8,
                             "predicted_sales": 7,
                             "features": {
@@ -1905,7 +1905,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-06",
+                            "date": "2025-09-06",
                             "actual_sales": 9,
                             "predicted_sales": 8,
                             "features": {
@@ -1917,7 +1917,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-07",
+                            "date": "2025-09-07",
                             "actual_sales": 10,
                             "predicted_sales": 9,
                             "features": {
@@ -1929,7 +1929,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-08",
+                            "date": "2025-09-08",
                             "actual_sales": 11,
                             "predicted_sales": 10,
                             "features": {
@@ -1941,7 +1941,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-09",
+                            "date": "2025-09-09",
                             "actual_sales": 12,
                             "predicted_sales": 11,
                             "features": {
@@ -1953,7 +1953,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-10",
+                            "date": "2025-09-10",
                             "actual_sales": 13,
                             "predicted_sales": 12,
                             "features": {
@@ -1965,7 +1965,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-11",
+                            "date": "2025-09-11",
                             "actual_sales": 14,
                             "predicted_sales": 13,
                             "features": {
@@ -1977,7 +1977,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-12",
+                            "date": "2025-09-12",
                             "actual_sales": 15,
                             "predicted_sales": 14,
                             "features": {
@@ -1989,7 +1989,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-13",
+                            "date": "2025-09-13",
                             "actual_sales": 16,
                             "predicted_sales": 15,
                             "features": {
@@ -2001,7 +2001,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-14",
+                            "date": "2025-09-14",
                             "actual_sales": 17,
                             "predicted_sales": 16,
                             "features": {
@@ -2013,7 +2013,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-15",
+                            "date": "2025-09-15",
                             "actual_sales": 18,
                             "predicted_sales": 17,
                             "features": {
@@ -2025,7 +2025,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-16",
+                            "date": "2025-09-16",
                             "actual_sales": 19,
                             "predicted_sales": 18,
                             "features": {
@@ -2037,7 +2037,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-17",
+                            "date": "2025-09-17",
                             "actual_sales": 20,
                             "predicted_sales": 19,
                             "features": {
@@ -2049,7 +2049,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-18",
+                            "date": "2025-09-18",
                             "actual_sales": 21,
                             "predicted_sales": 20,
                             "features": {
@@ -2061,7 +2061,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-19",
+                            "date": "2025-09-19",
                             "actual_sales": 22,
                             "predicted_sales": 21,
                             "features": {
@@ -2073,7 +2073,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-20",
+                            "date": "2025-09-20",
                             "actual_sales": 23,
                             "predicted_sales": 22,
                             "features": {
@@ -2085,7 +2085,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-21",
+                            "date": "2025-09-21",
                             "actual_sales": 24,
                             "predicted_sales": 23,
                             "features": {
@@ -2097,7 +2097,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-22",
+                            "date": "2025-09-22",
                             "actual_sales": 25,
                             "predicted_sales": 24,
                             "features": {
@@ -2109,7 +2109,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-23",
+                            "date": "2025-09-23",
                             "actual_sales": 26,
                             "predicted_sales": 25,
                             "features": {
@@ -2121,7 +2121,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-24",
+                            "date": "2025-09-24",
                             "actual_sales": 27,
                             "predicted_sales": 26,
                             "features": {
@@ -2133,7 +2133,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-25",
+                            "date": "2025-09-25",
                             "actual_sales": 28,
                             "predicted_sales": 27,
                             "features": {
@@ -2145,7 +2145,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-26",
+                            "date": "2025-09-26",
                             "actual_sales": 29,
                             "predicted_sales": 28,
                             "features": {
@@ -2157,7 +2157,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-27",
+                            "date": "2025-09-27",
                             "actual_sales": 30,
                             "predicted_sales": 29,
                             "features": {
@@ -2169,7 +2169,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-28",
+                            "date": "2025-09-28",
                             "actual_sales": 31,
                             "predicted_sales": 30,
                             "features": {
@@ -2181,7 +2181,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-29",
+                            "date": "2025-09-29",
                             "actual_sales": 32,
                             "predicted_sales": 31,
                             "features": {
@@ -2193,7 +2193,7 @@
                             }
                         },
                         {
-                            "date": "2025-07-30",
+                            "date": "2025-09-30",
                             "actual_sales": 33,
                             "predicted_sales": 32,
                             "features": {
@@ -2215,7 +2215,7 @@
                             "store_id": "DT_SC",
                             "daily_data": [
                                 {
-                                    "date": "2025-07-01",
+                                    "date": "2025-09-01",
                                     "actual_sales": 20,
                                     "predicted_sales": 21,
                                     "features": {
@@ -2227,7 +2227,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-02",
+                                    "date": "2025-09-02",
                                     "actual_sales": 22,
                                     "predicted_sales": 21,
                                     "features": {
@@ -2239,7 +2239,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-03",
+                                    "date": "2025-09-03",
                                     "actual_sales": 24,
                                     "predicted_sales": 23,
                                     "features": {
@@ -2251,7 +2251,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-04",
+                                    "date": "2025-09-04",
                                     "actual_sales": 26,
                                     "predicted_sales": 25,
                                     "features": {
@@ -2263,7 +2263,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-05",
+                                    "date": "2025-09-05",
                                     "actual_sales": 28,
                                     "predicted_sales": 27,
                                     "features": {
@@ -2275,7 +2275,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-06",
+                                    "date": "2025-09-06",
                                     "actual_sales": 30,
                                     "predicted_sales": 29,
                                     "features": {
@@ -2287,7 +2287,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-07",
+                                    "date": "2025-09-07",
                                     "actual_sales": 32,
                                     "predicted_sales": 31,
                                     "features": {
@@ -2299,7 +2299,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-08",
+                                    "date": "2025-09-08",
                                     "actual_sales": 34,
                                     "predicted_sales": 33,
                                     "features": {
@@ -2311,7 +2311,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-09",
+                                    "date": "2025-09-09",
                                     "actual_sales": 36,
                                     "predicted_sales": 35,
                                     "features": {
@@ -2323,7 +2323,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-10",
+                                    "date": "2025-09-10",
                                     "actual_sales": 38,
                                     "predicted_sales": 37,
                                     "features": {
@@ -2335,7 +2335,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-11",
+                                    "date": "2025-09-11",
                                     "actual_sales": 40,
                                     "predicted_sales": 39,
                                     "features": {
@@ -2347,7 +2347,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-12",
+                                    "date": "2025-09-12",
                                     "actual_sales": 42,
                                     "predicted_sales": 41,
                                     "features": {
@@ -2359,7 +2359,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-13",
+                                    "date": "2025-09-13",
                                     "actual_sales": 44,
                                     "predicted_sales": 43,
                                     "features": {
@@ -2371,7 +2371,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-14",
+                                    "date": "2025-09-14",
                                     "actual_sales": 46,
                                     "predicted_sales": 45,
                                     "features": {
@@ -2383,7 +2383,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-15",
+                                    "date": "2025-09-15",
                                     "actual_sales": 48,
                                     "predicted_sales": 47,
                                     "features": {
@@ -2395,7 +2395,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-16",
+                                    "date": "2025-09-16",
                                     "actual_sales": 50,
                                     "predicted_sales": 49,
                                     "features": {
@@ -2407,7 +2407,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-17",
+                                    "date": "2025-09-17",
                                     "actual_sales": 52,
                                     "predicted_sales": 51,
                                     "features": {
@@ -2419,7 +2419,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-18",
+                                    "date": "2025-09-18",
                                     "actual_sales": 54,
                                     "predicted_sales": 53,
                                     "features": {
@@ -2431,7 +2431,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-19",
+                                    "date": "2025-09-19",
                                     "actual_sales": 56,
                                     "predicted_sales": 55,
                                     "features": {
@@ -2443,7 +2443,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-20",
+                                    "date": "2025-09-20",
                                     "actual_sales": 58,
                                     "predicted_sales": 57,
                                     "features": {
@@ -2455,7 +2455,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-21",
+                                    "date": "2025-09-21",
                                     "actual_sales": 60,
                                     "predicted_sales": 59,
                                     "features": {
@@ -2467,7 +2467,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-22",
+                                    "date": "2025-09-22",
                                     "actual_sales": 62,
                                     "predicted_sales": 61,
                                     "features": {
@@ -2479,7 +2479,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-23",
+                                    "date": "2025-09-23",
                                     "actual_sales": 64,
                                     "predicted_sales": 63,
                                     "features": {
@@ -2491,7 +2491,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-24",
+                                    "date": "2025-09-24",
                                     "actual_sales": 66,
                                     "predicted_sales": 65,
                                     "features": {
@@ -2503,7 +2503,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-25",
+                                    "date": "2025-09-25",
                                     "actual_sales": 68,
                                     "predicted_sales": 67,
                                     "features": {
@@ -2515,7 +2515,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-26",
+                                    "date": "2025-09-26",
                                     "actual_sales": 70,
                                     "predicted_sales": 69,
                                     "features": {
@@ -2527,7 +2527,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-27",
+                                    "date": "2025-09-27",
                                     "actual_sales": 72,
                                     "predicted_sales": 71,
                                     "features": {
@@ -2539,7 +2539,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-28",
+                                    "date": "2025-09-28",
                                     "actual_sales": 74,
                                     "predicted_sales": 73,
                                     "features": {
@@ -2551,7 +2551,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-29",
+                                    "date": "2025-09-29",
                                     "actual_sales": 76,
                                     "predicted_sales": 75,
                                     "features": {
@@ -2563,7 +2563,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-30",
+                                    "date": "2025-09-30",
                                     "actual_sales": 78,
                                     "predicted_sales": 77,
                                     "features": {
@@ -2581,7 +2581,7 @@
                             "store_id": "UT_NB",
                             "daily_data": [
                                 {
-                                    "date": "2025-07-01",
+                                    "date": "2025-09-01",
                                     "actual_sales": 23,
                                     "predicted_sales": 23,
                                     "features": {
@@ -2593,7 +2593,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-02",
+                                    "date": "2025-09-02",
                                     "actual_sales": 25,
                                     "predicted_sales": 23,
                                     "features": {
@@ -2605,7 +2605,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-03",
+                                    "date": "2025-09-03",
                                     "actual_sales": 27,
                                     "predicted_sales": 25,
                                     "features": {
@@ -2617,7 +2617,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-04",
+                                    "date": "2025-09-04",
                                     "actual_sales": 29,
                                     "predicted_sales": 27,
                                     "features": {
@@ -2629,7 +2629,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-05",
+                                    "date": "2025-09-05",
                                     "actual_sales": 31,
                                     "predicted_sales": 29,
                                     "features": {
@@ -2641,7 +2641,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-06",
+                                    "date": "2025-09-06",
                                     "actual_sales": 33,
                                     "predicted_sales": 31,
                                     "features": {
@@ -2653,7 +2653,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-07",
+                                    "date": "2025-09-07",
                                     "actual_sales": 35,
                                     "predicted_sales": 33,
                                     "features": {
@@ -2665,7 +2665,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-08",
+                                    "date": "2025-09-08",
                                     "actual_sales": 37,
                                     "predicted_sales": 35,
                                     "features": {
@@ -2677,7 +2677,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-09",
+                                    "date": "2025-09-09",
                                     "actual_sales": 39,
                                     "predicted_sales": 37,
                                     "features": {
@@ -2689,7 +2689,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-10",
+                                    "date": "2025-09-10",
                                     "actual_sales": 41,
                                     "predicted_sales": 39,
                                     "features": {
@@ -2701,7 +2701,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-11",
+                                    "date": "2025-09-11",
                                     "actual_sales": 43,
                                     "predicted_sales": 41,
                                     "features": {
@@ -2713,7 +2713,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-12",
+                                    "date": "2025-09-12",
                                     "actual_sales": 45,
                                     "predicted_sales": 43,
                                     "features": {
@@ -2725,7 +2725,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-13",
+                                    "date": "2025-09-13",
                                     "actual_sales": 47,
                                     "predicted_sales": 45,
                                     "features": {
@@ -2737,7 +2737,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-14",
+                                    "date": "2025-09-14",
                                     "actual_sales": 49,
                                     "predicted_sales": 47,
                                     "features": {
@@ -2749,7 +2749,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-15",
+                                    "date": "2025-09-15",
                                     "actual_sales": 51,
                                     "predicted_sales": 49,
                                     "features": {
@@ -2761,7 +2761,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-16",
+                                    "date": "2025-09-16",
                                     "actual_sales": 53,
                                     "predicted_sales": 51,
                                     "features": {
@@ -2773,7 +2773,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-17",
+                                    "date": "2025-09-17",
                                     "actual_sales": 55,
                                     "predicted_sales": 53,
                                     "features": {
@@ -2785,7 +2785,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-18",
+                                    "date": "2025-09-18",
                                     "actual_sales": 57,
                                     "predicted_sales": 55,
                                     "features": {
@@ -2797,7 +2797,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-19",
+                                    "date": "2025-09-19",
                                     "actual_sales": 59,
                                     "predicted_sales": 57,
                                     "features": {
@@ -2809,7 +2809,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-20",
+                                    "date": "2025-09-20",
                                     "actual_sales": 61,
                                     "predicted_sales": 59,
                                     "features": {
@@ -2821,7 +2821,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-21",
+                                    "date": "2025-09-21",
                                     "actual_sales": 63,
                                     "predicted_sales": 61,
                                     "features": {
@@ -2833,7 +2833,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-22",
+                                    "date": "2025-09-22",
                                     "actual_sales": 65,
                                     "predicted_sales": 63,
                                     "features": {
@@ -2845,7 +2845,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-23",
+                                    "date": "2025-09-23",
                                     "actual_sales": 67,
                                     "predicted_sales": 65,
                                     "features": {
@@ -2857,7 +2857,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-24",
+                                    "date": "2025-09-24",
                                     "actual_sales": 69,
                                     "predicted_sales": 67,
                                     "features": {
@@ -2869,7 +2869,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-25",
+                                    "date": "2025-09-25",
                                     "actual_sales": 71,
                                     "predicted_sales": 69,
                                     "features": {
@@ -2881,7 +2881,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-26",
+                                    "date": "2025-09-26",
                                     "actual_sales": 73,
                                     "predicted_sales": 71,
                                     "features": {
@@ -2893,7 +2893,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-27",
+                                    "date": "2025-09-27",
                                     "actual_sales": 75,
                                     "predicted_sales": 73,
                                     "features": {
@@ -2905,7 +2905,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-28",
+                                    "date": "2025-09-28",
                                     "actual_sales": 77,
                                     "predicted_sales": 75,
                                     "features": {
@@ -2917,7 +2917,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-29",
+                                    "date": "2025-09-29",
                                     "actual_sales": 79,
                                     "predicted_sales": 77,
                                     "features": {
@@ -2929,7 +2929,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-30",
+                                "date": "2025-09-30",
                                     "actual_sales": 81,
                                     "predicted_sales": 79,
                                     "features": {
@@ -2947,7 +2947,7 @@
                             "store_id": "SB_SC",
                             "daily_data": [
                                 {
-                                    "date": "2025-07-01",
+                                    "date": "2025-09-01",
                                     "actual_sales": 16,
                                     "predicted_sales": 18,
                                     "features": {
@@ -2959,7 +2959,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-02",
+                                    "date": "2025-09-02",
                                     "actual_sales": 18,
                                     "predicted_sales": 18,
                                     "features": {
@@ -2971,7 +2971,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-03",
+                                    "date": "2025-09-03",
                                     "actual_sales": 20,
                                     "predicted_sales": 18,
                                     "features": {
@@ -2983,7 +2983,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-04",
+                                    "date": "2025-09-04",
                                     "actual_sales": 22,
                                     "predicted_sales": 20,
                                     "features": {
@@ -2995,7 +2995,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-05",
+                                    "date": "2025-09-05",
                                     "actual_sales": 24,
                                     "predicted_sales": 22,
                                     "features": {
@@ -3007,7 +3007,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-06",
+                                    "date": "2025-09-06",
                                     "actual_sales": 26,
                                     "predicted_sales": 24,
                                     "features": {
@@ -3019,7 +3019,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-07",
+                                    "date": "2025-09-07",
                                     "actual_sales": 28,
                                     "predicted_sales": 26,
                                     "features": {
@@ -3031,7 +3031,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-08",
+                                    "date": "2025-09-08",
                                     "actual_sales": 30,
                                     "predicted_sales": 28,
                                     "features": {
@@ -3043,7 +3043,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-09",
+                                    "date": "2025-09-09",
                                     "actual_sales": 32,
                                     "predicted_sales": 30,
                                     "features": {
@@ -3055,7 +3055,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-10",
+                                    "date": "2025-09-10",
                                     "actual_sales": 34,
                                     "predicted_sales": 32,
                                     "features": {
@@ -3067,7 +3067,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-11",
+                                    "date": "2025-09-11",
                                     "actual_sales": 36,
                                     "predicted_sales": 34,
                                     "features": {
@@ -3079,7 +3079,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-12",
+                                    "date": "2025-09-12",
                                     "actual_sales": 38,
                                     "predicted_sales": 36,
                                     "features": {
@@ -3091,7 +3091,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-13",
+                                    "date": "2025-09-13",
                                     "actual_sales": 40,
                                     "predicted_sales": 38,
                                     "features": {
@@ -3103,7 +3103,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-14",
+                                    "date": "2025-09-14",
                                     "actual_sales": 42,
                                     "predicted_sales": 40,
                                     "features": {
@@ -3115,7 +3115,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-15",
+                                    "date": "2025-09-15",
                                     "actual_sales": 44,
                                     "predicted_sales": 42,
                                     "features": {
@@ -3127,7 +3127,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-16",
+                                    "date": "2025-09-16",
                                     "actual_sales": 46,
                                     "predicted_sales": 44,
                                     "features": {
@@ -3139,7 +3139,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-17",
+                                    "date": "2025-09-17",
                                     "actual_sales": 48,
                                     "predicted_sales": 46,
                                     "features": {
@@ -3151,7 +3151,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-18",
+                                    "date": "2025-09-18",
                                     "actual_sales": 50,
                                     "predicted_sales": 48,
                                     "features": {
@@ -3163,7 +3163,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-19",
+                                    "date": "2025-09-19",
                                     "actual_sales": 52,
                                     "predicted_sales": 50,
                                     "features": {
@@ -3175,7 +3175,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-20",
+                                    "date": "2025-09-20",
                                     "actual_sales": 54,
                                     "predicted_sales": 52,
                                     "features": {
@@ -3187,7 +3187,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-21",
+                                    "date": "2025-09-21",
                                     "actual_sales": 56,
                                     "predicted_sales": 54,
                                     "features": {
@@ -3199,7 +3199,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-22",
+                                    "date": "2025-09-22",
                                     "actual_sales": 58,
                                     "predicted_sales": 56,
                                     "features": {
@@ -3211,7 +3211,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-23",
+                                    "date": "2025-09-23",
                                     "actual_sales": 60,
                                     "predicted_sales": 58,
                                     "features": {
@@ -3223,7 +3223,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-24",
+                                    "date": "2025-09-24",
                                     "actual_sales": 62,
                                     "predicted_sales": 60,
                                     "features": {
@@ -3235,7 +3235,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-25",
+                                    "date": "2025-09-25",
                                     "actual_sales": 64,
                                     "predicted_sales": 62,
                                     "features": {
@@ -3247,7 +3247,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-26",
+                                    "date": "2025-09-26",
                                     "actual_sales": 66,
                                     "predicted_sales": 64,
                                     "features": {
@@ -3259,7 +3259,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-27",
+                                    "date": "2025-09-27",
                                     "actual_sales": 68,
                                     "predicted_sales": 66,
                                     "features": {
@@ -3271,7 +3271,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-28",
+                                    "date": "2025-09-28",
                                     "actual_sales": 70,
                                     "predicted_sales": 68,
                                     "features": {
@@ -3283,7 +3283,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-29",
+                                    "date": "2025-09-29",
                                     "actual_sales": 72,
                                     "predicted_sales": 70,
                                     "features": {
@@ -3295,7 +3295,7 @@
                                     }
                                 },
                                 {
-                                    "date": "2025-07-30",
+                                    "date": "2025-09-30",
                                     "actual_sales": 74,
                                     "predicted_sales": 72,
                                     "features": {
